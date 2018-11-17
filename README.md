@@ -1,5 +1,4 @@
 [![Build Status][build-img]][build-url] [![Crates.io][crates-io-img]][crates-io-url]
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FflyingP0tat0%2Fphotoprintit-tools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FflyingP0tat0%2Fphotoprintit-tools?ref=badge_shield)
 
 # photoprintit-tools
 
@@ -35,11 +34,15 @@ OPTIONS:
     -p, --platform <platform>            Platform (a, l, l64, m, w, w64)
 ```
 
-[build-img]: https://travis-ci.com/flyingP0tat0/photoprintit.svg?branch=master
-[build-url]: https://travis-ci.com/flyingP0tat0/photoprintit
+## License
+
+MIT licensed, see [`LICENSE`](LICENSE)
+
+[![FOSSA Status][fossa-img]][fossa-url]
+
+[build-img]: https://travis-ci.com/flyingP0tat0/photoprintit-tools.svg?branch=master
+[build-url]: https://travis-ci.com/flyingP0tat0/photoprintit-tools
 [crates-io-img]: https://img.shields.io/crates/v/photoprintit-tools.svg
 [crates-io-url]: https://crates.io/crates/photoprintit-tools
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FflyingP0tat0%2Fphotoprintit-tools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FflyingP0tat0%2Fphotoprintit-tools?ref=badge_large)
+[fossa-img]: https://app.fossa.io/api/projects/git%2Bgithub.com%2FflyingP0tat0%2Fphotoprintit-tools.svg?type=large
+[fossa-url]: https://app.fossa.io/projects/git%2Bgithub.com%2FflyingP0tat0%2Fphotoprintit-tools
